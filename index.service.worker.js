@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1788551487|4450592865';
+const CACHE_VERSION = '1788635888|188350460';
 /** @type {string} */
 const CACHE_PREFIX = 'Splitscreen Game-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
